@@ -1,0 +1,462 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral of the Reverend Mr. John Culem, vicar of Knowstone and Molland, in Devon December 2. 1691 / by Lewis Southcomb.</title>
+            <author>Southcomb, Lewis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60957</idno>
+            <idno type="STC">Wing S4752</idno>
+            <idno type="STC">ESTC R33847</idno>
+            <idno type="EEBO-CITATION">13577983</idno>
+            <idno type="OCLC">ocm 13577983</idno>
+            <idno type="VID">100469</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100469)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1049:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral of the Reverend Mr. John Culem, vicar of Knowstone and Molland, in Devon December 2. 1691 / by Lewis Southcomb.</title>
+                  <author>Southcomb, Lewis.</author>
+               </titleStmt>
+               <extent>[4], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Bonwicke...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Culme, John, d. 1691.</term>
+               <term>Bible. --  O.T. --  Deuteronomy XXXII, 29 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100469:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at the FUNERAL Of the Reverend Mr. John Culme, Vicar of <hi>Knowſtone</hi> and <hi>Molland,</hi> in <hi>Devon. December</hi> 2. 1691.</p>
+            <p>By <hi>LEWIS SO<g ref="char:V">Ʋ</g>THCOMB,</hi> Rector of <hi>Roſe-Aſh.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng" subtype="imprimatur">
+               <body>
+                  <p>Imprimatur,</p>
+                  <closer>
+                     <signed>
+                        <hi>Ra. Barker.</hi> 
+                     </signed> 
+                     <dateline>
+                        <date>
+                           <hi>Dec.</hi> 28. 1691. </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. Bonwicke</hi> at the <hi>Red Lyon</hi> in St. <hi>Pauls Church-yard,</hi> 1692.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100469:2"/>
+            <pb facs="tcp:100469:2"/>
+            <head>To the Worſhipful <hi>Philip Shapcote,</hi> 
+               <abbr>Eſq</abbr> of <hi>Shapcote;</hi> one of Their Majeſties Juſtices of the Peace, for the County of <hi>Devon.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have ſometimes wondred how the Dedication of a Book or a Pamphlet to a worthy Perſon, could be called or thought an Inſtance of paying Re<g ref="char:EOLhyphen"/>ſpect, or doing Honour to the Patron, where the Diſcourſe has but little worth in't.</p>
+            <p>Upon which Principle or Opinion, Sir, the pre<g ref="char:EOLhyphen"/>fixing your Name to this Diſcourſe, would rather look like an <hi>Affront,</hi> than a <hi>Dedication;</hi> and make me as much inclin'd to beg your Pardon, as I ſhould be to think I needed it; did I not know, that as you would have all you converſe with, to be truly Wiſe, truly Happy, and truly Good; ſo, you may Countenance the meaneſt Endeavours, that with clear Intuition, undiſguiſed Sincerity, and Purity of Intention, have ſuch Aims and In<g ref="char:EOLhyphen"/>tendments, which is all that can, (and I am afraid, more than ought to) be ſaid, for this Sermon.</p>
+            <pb facs="tcp:100469:3"/>
+            <p>'Tis uſual to tell the World, that the Publiſhing of a Sermon, was deſired by ſome of the Hearers: Now tho I might ſay ſo too; yet ſhould I mention who they were, it would derive as little Honour up<g ref="char:EOLhyphen"/>on their Judgment, for <hi>deſiring it,</hi> as can accrue to my own, for <hi>conſenting.</hi>
+            </p>
+            <p>Sir, if you find (as you will) two or three Pa<g ref="char:EOLhyphen"/>ges more-here, than what was delivered; I am to aſſure you, that 'tis what was prepared to have been ſpoken; if the ſhortneſs of the Day, and ſome o<g ref="char:EOLhyphen"/>ther Reaſons, had not made me think fit to wave it.</p>
+            <p>The great Reſpect, Sir, you have alway ſhewn to our whole Order, and particularly to the Perſon whoſe Obſequies we lately celebrated; your Counte<g ref="char:EOLhyphen"/>nancing and Encouraging your Excellent Lady's late pious Action of Building of a Tower, not intention<g ref="char:EOLhyphen"/>ally to her own, but to the divine Glory, (for I am confident, if it had been poſſible, ſhe would have con<g ref="char:EOLhyphen"/>ceal'd it, till the Reſurrection) That Prudence and Zeal, with which ſhe began that Act of Piety, and has conducted it all the way, makes me (among ma<g ref="char:EOLhyphen"/>ny others,) deſirous to be thought by both, and by all that know me, to be</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>
+                  <hi>Your Faithful, Affectionate, Humble Servant,</hi> Lewis Southcomb</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:100469:3"/>
+            <head>A SERMON Preached at the FUNERAL Of the Reverend Mr. John Culme, Vicar of <hi>Knowſtone</hi> and <hi>Molland, December</hi> 2. 1691.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Deut. 32.29.</hi>
+                  </bibl>
+                  <p>O that they were wiſe, that they underſtood this, that they would conſider their latter end.</p>
+               </q>
+            </epigraph>
+            <p>THE great buſineſs of our preſent ſtate in this lower VVorld, is our Preparation for a better; and by one ſhort but holy Life, to train up and diſcipline, and trim the Soul, for its ſafe and holy Paſſage to the ſtate of Separation; for its bleſt Admittance to the Spirits of Juſt Men made perfect, to a new and unknown and glorious Society in a new and lovely world; among the beatified Spirits of all the
+<pb n="2" facs="tcp:100469:4"/>VViſe, and all the Good Men of all Ages: That by ſuch an Admittance there, we may ſupply the Vacancies of fallen Angels; enjoy the beatific Viſion, or the felicity of the preſence of God, the Holineſs and Happineſs, and Peace, and Joy, and Clarity of underſtanding the upper world for all futurity.</p>
+            <p>Every man, methinks, that believes any thing of this, and has theſe Hopes and Expectations beyond the Grave, ſhould eaſily be perſwaded to be ſo wiſe, as to under<g ref="char:EOLhyphen"/>ſtand this to be the moſt important buſineſs of our pre<g ref="char:EOLhyphen"/>ſent ſtate of probation here; and conſequently, conſider his latter end.</p>
+            <p>The words of the Text will need but little Opening or Explication. Only I muſt obſerve this: That I do not think the words, <hi>conſider their latter end,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> are in this place primarily and directly meant of Death, or our Diſſolution; nor does the Context at all ſeem to warrant it: But they are a kind of Wiſh of God by <hi>Moſes,</hi> that the Jews would conſider Gods dealings with them, and compare them with what would befall them in the end, for their Stubbornneſs and Rebellion.</p>
+            <p>So <hi>Menochius</hi> and <hi>Vatablus</hi> both ſay upon the place, if the <hi>Synopſis</hi> have quoted them right.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>tinam intellexiſſent quis finis eos maneat, &amp; reputaſſent eadem ſibi eventura propter peccata ſua:</hi> i. e. That they would underſtand, and conſider, and obſerve, how God would deal with them in the end, for their Rebellion, Diſobedience and Ingratitude.</p>
+            <p>But I ſhall for the preſent follow the common Road, and (as moſt ſuitable to our preſent occaſion) ſuppoſe them to be meant of Death, or the State of Separation; and the parting of the two old Friends, Soul and Body, till their Re-union at the Reſurrection.</p>
+            <p>I ſhall ſpend no one minute of my time in ſo fruitleſs a Thought, as to ſhew the <hi>Certainty</hi> of our Removal, or the <hi>uncertainty</hi> of the time when; which every Body be<g ref="char:EOLhyphen"/>lieves, whatever they do as to the Conſideration of it.
+<pb n="3" facs="tcp:100469:4"/>But I ſhall rather chooſe from the words, to raiſe this <hi>Doctrinal Head:</hi>
+            </p>
+            <p>
+               <hi>That as a ſeaſonable Proviſion for our change of Worlds, our removal hence, or our ſtate of Separation, is an Act of the higheſt Reaſon and the trueſt Wiſdom; ſo the contrary neg<g ref="char:EOLhyphen"/>lect, is infinitely irrational and unaccountable.</hi>
+            </p>
+            <p>This I ſhall a little further confirm, and make evident from holy Scripture: And then from eight rational Con<g ref="char:EOLhyphen"/>ſiderations, endeavour to demonſtrate its moſt infallible Truth and Certainty: And then ſee what Uſes are to be made of the whole; or what Influence it ought to have upon our Thoughts and Actions.</p>
+            <p n="1">1. From Scripture a word or two. Holy <hi>Job</hi> thought it ſo much the trueſt Wiſdom, that he tells us it ſhould be the great buſineſs of all the days of this his Pilgri<g ref="char:EOLhyphen"/>mage, to wait for his Diſſolution; and accordingly lay up (no doubt) for his ſafe admittance to the beatified Spirits of the Patriarchs, and other Juſt men made per<g ref="char:EOLhyphen"/>fect, who were gone before him.</p>
+            <p>Thus in that known place <hi>Job</hi> 14.14. He reſolves, <hi>that all the days of his appointed time, he would wait till his change came.</hi> [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] All the days of my <hi>warfare</hi> will I <hi>wait,</hi> or (as the Verb there alſo ſignifies) will I <hi>Hope,</hi> or <hi>Truſt,</hi> till my Change come. Till I change a tumultuous and uncertain World, for a World of Happineſs, and Peace, and Joy, for all Ages.</p>
+            <p>In either of which Senſes, whether of <hi>Expectation, Truſt<g ref="char:EOLhyphen"/>ing,</hi> or <hi>Hoping,</hi> he ſufficiently intimates and ſuppoſes, not only a due Conſideration of, but a ſeaſonable Proviſion and Laying up for, his ſafe and holy Paſſage out of this World, to a new Scene of things; and for the Diſ-union of his Soul and Body, and for his unknown State and Con<g ref="char:EOLhyphen"/>dition.</p>
+            <p>Thus the ſame <hi>Moſes</hi> who is the Author of my Text, has given it as the Character of the Trueſt Wiſdom in the
+<pb n="4" facs="tcp:100469:5"/>Pſalm for this Occaſion: <hi>Pſal.</hi> 90.12. So teach us to number our days, that we may apply our hearts unto wiſ<g ref="char:EOLhyphen"/>dom.</p>
+            <p>And the five holy Virgins, who with oil in their Lamps very carefully and watchfully expected the uncertain coming of the Bridegroom, in the noted Parable of St. <hi>Math.</hi> 25. are called wiſe by him who is <hi>Wiſdom</hi> it ſelf; the Holy Jeſus: And are a ſufficient Proof of the Infinite <hi>Prudence</hi> and <hi>Diſcretion,</hi> of an early and a ſeaſonable Pre<g ref="char:EOLhyphen"/>paration for the approaching of the Bridegroom of our Souls, whether by Death or the laſt great Day of Re<g ref="char:EOLhyphen"/>wards and Puniſhments; when he ſhall come once for all to diſpoſe of the Palms and the Crowns of Eternity.</p>
+            <p>I might ſtay to produce many other inſtances of Holy Writ, that do abundantly confirm the Doctrin, by fair Inference or neceſſary Conſequence: But I paſs from Ho<g ref="char:EOLhyphen"/>ly Scripture, to the endeavours of its demonſtration by eight ſeveral Reaſons.</p>
+            <p n="1">1. <hi>Every man methinks ſhould allow it to be Wiſdom to prefer Eternity before Moments; and for one ſhort life to act accord<g ref="char:EOLhyphen"/>ingly.</hi>
+            </p>
+            <p>Say Chriſtian, is there any thing in which thou re<g ref="char:EOLhyphen"/>joyceſt here, any thing that delights thee? If ſo, oh! what ſhall the perpetual Delights and Rejoycings be of E<g ref="char:EOLhyphen"/>ternal Ages? where there ſhall be no ſuch damp ſtruck upon them, as there conſtantly is on every thing thou rejoyceſt in here, that it ſhall be of no long duration.</p>
+            <p>None of thy Complacencies, and Joys, and little Satis<g ref="char:EOLhyphen"/>factions here, ſhall ſtay long with thee. Still ſome Diſ<g ref="char:EOLhyphen"/>appointment, or Affliction, or Uneaſineſs ſhall ſtep in and damp, and cool them: And a cloud of darkneſs, ſhall quickly be drawn over thy preſent Sun-ſhine.</p>
+            <p>But how bleſt ſhall that ſtate be, where our Rejoycings ſhall be without Mixture, without Allay, and for Perpe<g ref="char:EOLhyphen"/>tuity too? Where our Love of Jeſus ſhall be without In<g ref="char:EOLhyphen"/>terruption,
+<pb n="5" facs="tcp:100469:5"/>Ceſſation, or Abatement for all Futurity: And our Obedience ſhall be uninterrupted, clear, and active, and without Mixture of the juſt Fear of his Disfa<g ref="char:EOLhyphen"/>vour, for all Ages.</p>
+            <p>To this Head I might ſubjoyn this Conſideration, That whatever is <hi>uneaſie</hi> here, or <hi>troubleſome</hi> or <hi>afflictive,</hi> if we dread it ſo much, while its duration can be but as it were a Span long; how truly, how juſtly, how wiſely ſhould we dread the long Affliction, and unſupportable Uneaſi<g ref="char:EOLhyphen"/>neſs of an eternal Separation from the Lord of Glory? An eternal Separation from the happy Spirits of the up<g ref="char:EOLhyphen"/>per World; from the Spirits of the Martyrs, the Con<g ref="char:EOLhyphen"/>feſſors, the Virgins and the Doctors of the Primitive Church; a perpetual Excluſion from the Religious Her<g ref="char:EOLhyphen"/>mits or Holy Anchorites; from our Fathers in Chriſtianity; from thoſe Worthies, of whom the World was not wor<g ref="char:EOLhyphen"/>thy; from <hi>Noah, Daniel</hi> and <hi>Job;</hi> from St. <hi>Peter</hi> and St. <hi>Paul;</hi> from the Prophets, Apoſtles and Evangeliſts; but a<g ref="char:EOLhyphen"/>bove all, an Excluſion from the Glorious Face of the Lord that bought us.</p>
+            <p>If we dread a Temporal, Momentany Affliction or Un<g ref="char:EOLhyphen"/>eaſineſs ſo much, that we naturally ſtart at the Approach or Apprehenſion of it; how much dread does the unſup<g ref="char:EOLhyphen"/>portable and long Uneaſineſs of an eternal Separation from the Preſence of our God and his holy Angels, and his menial Servants; thoſe <hi>lovely</hi> Inhabitants of a <hi>lovely</hi> World deſerve at our hands? See here a little of the <hi>Wiſdom of preferring Eternity before Moments.</hi>
+            </p>
+            <p n="2">2. <hi>Every Man methinks ſhould allow it to be a thing truly rational and truly wiſe, to prefer a perpetual Tranquility and Peace, before the diſappointments and uncertainties of this low<g ref="char:EOLhyphen"/>er World; and for one ſhort life to act accordingly.</hi>
+            </p>
+            <p>If I ſhould ask any Perſon here preſent, how many and great his Diſappointments have been; how many and great the ſecret Fears and Dangers; the inward Tumults
+<pb n="6" facs="tcp:100469:6"/>and Hurries, and Diſorders, and Diſcompoſures of his Soul have been, ſince he came to be able to feel, and find and reflect on them: He'l preſently anſwer, they were more and greater than the World thinks of. Little do even thoſe who ſtand near him, think what he has felt within.</p>
+            <p>Well, tell me then Chriſtian, is it Wiſdom, or is it not, by your own Account, to provide ſeaſonably for a happy Removal from them, for all Ages? Do you complain of them, and yet would you rather live in them for ever, than prepare for a bleſt and a perpetual Freedom? Is it better ſtill to live in the <hi>Wilderneſs</hi> than to be tranſlated to a <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> a Land of Peace and Plenty? Where every thing ſhall anſwer your Expectations; and every thing ſhall be calm and eaſie and ſedate and peaceful, both within and with<g ref="char:EOLhyphen"/>out, for all Futurity. Let your own ſilent Anſwer to this Queſtion, be the ſecond Confirmation of the Doctrin.</p>
+            <p n="3">3. <hi>Every man ſhould methinks allow it to be an Act of ſub<g ref="char:EOLhyphen"/>ſtantial Reaſon and Wiſdom, to prefer a laſting Reſt and Eaſe to the Succeſſion of conſtant Labours: And for a Life that is but as a Span long, to act accordingly.</hi>
+            </p>
+            <p>Why is Reſt at night ſo gratefull to the weary Travel<g ref="char:EOLhyphen"/>ler? Why is Leiſure and Eaſe ſo pleaſant, ſo refreſhing to the Labourer, but becauſe his Toils and Travels are a Violence to his Frame and Conſtitution; a wearineſs and pain to the Fleſh, and a Diſſolution and Diſſipation of his Spirits.</p>
+            <p>And who that has felt the Uneaſineſs of either, can with any Reaſon, quarrel with that hand that only comes to undreſs him, and put him away to Reſt? The froward Child indeed may do ſo, may be diſpleaſed at that Perſon that carries him away to uncloath him, and to lye him down to Reſt: But has the weary Labourer, the pain<g ref="char:EOLhyphen"/>ful Traveller, any cauſe to do ſo? Why, that Death for which thou haſt made a ſeaſonable and careful Proviſion, only does this for thee, uncloaths thy Soul, pulls off, and
+<pb n="7" facs="tcp:100469:6"/>lays aſide this heavy Garment of Fleſh; unfetters, unlocks, unchains thy better part; frees that, and lays down thy wearied Body to reſt in the eaſie Bed of Duſt, till the Reſurrection.</p>
+            <p>Tell me now Chriſtian, whether a ſafe, and holy, and happy putting thee away to reſt, be not in Wiſdom, to be preferr'd to the toilſom Labours of the day, the day of this Life?</p>
+            <p n="4">4. <hi>Every Man methinks ſhould allow it to be Wiſdom, to prefer a perpetual Health and Beauty, before the Pains, and Sickneſſes, and Deformities of a decaying Body: And for one ſhort Life to act accordingly.</hi>
+            </p>
+            <p>Do we believe the Reſurrection of the Body? Is this any part of our Creed? Do we believe that this our Houſe of Clay ſhall be better built at the Reſurrection? Do we believe that the Holy Ghoſt has ſaid, <hi>Phil.</hi> 3.21. <hi>That our vile bodies, ſhall then be faſhioned like to our Savi<g ref="char:EOLhyphen"/>ovr's Glorious Body?</hi> If we do not, we are Infidels, and have but little buſineſs here. But if we do, why ſhould we then wonder at the holy Life of the good Man? At the mortify'd life of the devout Chriſtian, that only has a fixt, a conſtant and a ſteddy eye to ſuch a Reſurrection? Where he wiſely foreſees, he ſhall alone find a perpetual Freedom, Health and eaſe from the Pains, the Aches, the Deformities of a ruinous Houſe of Clay: Even then when it ſhall be built more Glorious; fitted for nobler Imploy<g ref="char:EOLhyphen"/>ments; and contrived for a longer Duration; framed for Perpetuity, at the Reſurrection.</p>
+            <p>Whether to direct one ſhort Life, and all the greater Aims, and Actions and Intendments of it, to ſuch a Reſur<g ref="char:EOLhyphen"/>rection, appear to be Wiſdom or no, I leave to thy Con<g ref="char:EOLhyphen"/>ſideration, in thy next Retirements from the World; when thou art withdrawn from the Throngs and Hurries of it; from its Noiſe and Tumults.</p>
+            <p n="5">
+               <pb n="8" facs="tcp:100469:7"/> 5. <hi>Every man methinks ſhould allow it to be Wiſe and Ratio<g ref="char:EOLhyphen"/>nal to prefer a perpetual Plenty, or a Supply of all his Wiſhes and Deſires; before the Neceſſities and Wants that attend us here. And for our tranſient life to act accordingly.</hi>
+            </p>
+            <p>He that has the largeſt Portion of this Worlds Affluence and Plenty, ſtill finds that there is ſomething or other that he always ſtands in need of, to compleat his Happi<g ref="char:EOLhyphen"/>neſs; or ſatisfy his Needs, or anſwer his Deſires. And thus 'twill always be, till we come home to him, who is called <hi>The deſire of all Nations, Haggai</hi> 2.7.</p>
+            <p>Till then, our <hi>Deſires</hi> will never be ſatisfied; our <hi>Needs</hi> never ſufficiently relieved; our <hi>Expectations</hi> never an<g ref="char:EOLhyphen"/>ſwered; our little Satisfactions here, never great enough, or long enough, or ſubſtantial enough to deſerve that name.</p>
+            <p>But above all, the devout poor man, he who ſinds ſo very much need of begging <hi>his daily Bread;</hi> he to whom God is pleaſed to give no more than a literal Anſwer of his Petitions; who can wonder at his humble, earneſt, pious and wiſe Proviſion for a Life of perpetual <hi>Plenty.</hi> And who can wonder enough at that Man, who is unwil<g ref="char:EOLhyphen"/>ling to take care for his Removal thither, where all his Needs and Neceſſities, and Deſires, ſhall be effectually ſupplyed; not for a day or two, not for a ſhort ſeventy or eighty years; but for a long Eternity.</p>
+            <p>Come Chriſtian, let a ſilent and ſolitary thought or two in thy next Retirements, put thee upon a cloſe and piercing Meditation of the true Wiſdom of a ſeaſonable Proviſion for that State, where all the <hi>wiſhes</hi> and the <hi>wants,</hi> the <hi>needs</hi> and <hi>deſires</hi> of Humane Life, ſhall end in a vaſt Affluence, and Plenty, and Satisfaction, for a ne<g ref="char:EOLhyphen"/>ver-ending Futurity.</p>
+            <p n="6">6. <hi>Every man methinks ſhould allow it to be an Act of ſub<g ref="char:EOLhyphen"/>ſtantial Reaſon and true Wiſdom, to prefer a perpetual Peace
+<pb n="9" facs="tcp:100469:7"/>of Mind, and Clarity of <g ref="char:V">Ʋ</g>nderſtanding, before the Doubts and Fears, and Scruples that attend us here. And to be willing for one ſhort Life to Act accordingly.</hi>
+            </p>
+            <p>
+               <hi>Now we ſee but thro a glaſs darkly;</hi> but after a Bleſt and Happy Separation (at leaſt in the Reſurrection) we ſhall ſee God <hi>face to face:</hi> Now, as the Apoſtle ſays, <hi>we know but in part; but we ſhall then know, even as alſo we are known,</hi> 1 Cor. 13.12. That is, we ſhall know God as truly, as hitherto we have been known by him.</p>
+            <p>'Tis ſometime the Lot and Portion, <hi>doubtleſs,</hi> of the Beſt of men here, to meet with <hi>Doubts</hi> and <hi>Fears,</hi> and <hi>Ignorances,</hi> and <hi>Scruples,</hi> and <hi>Diſſatisfactions</hi> of Conſci<g ref="char:EOLhyphen"/>ence. And we often wiſh to have them clearly anſwered, and done away; but we can find no Remedy.</p>
+            <p>But when the Veil ſhall be taken off, and the Curtain ſhall be drawn aſide, and the thick and dull and heavy Load of Fleſh ſhall be laid down, the devout Chriſtian ſhall quickly receive a Clarity of Underſtanding; and all his Doubts, and Fears, and Scruples, and Curious In<g ref="char:EOLhyphen"/>quiries, ſhall be anſwered once for all: And without all doubt, there ſhall from this ariſe an unknown Peace and Pleaſure, and Satisfaction of Soul, infinitely beyond all the great Pleaſures of Mathematical Demonſtration.</p>
+            <p>Then the poor, humble, meek and ſincere, yet doubt<g ref="char:EOLhyphen"/>ing Chriſtian, ſhall no more need to ſpeak with his Con<g ref="char:EOLhyphen"/>feſſour; no more wiſh for a Guide of Souls; before whom, with pious Tremblings, an upright Heart, great Affections, and tremulous Diſcourſes, to bring his Doubts and Fears. No more wiſh for the Good Man, to direct, aſſiſt and help him; to reſolve theſe Doubts, remove theſe Fears, and cure theſe Tremblings.</p>
+            <p>No: The Clearneſs of his Underſtanding, the Ful<g ref="char:EOLhyphen"/>neſs of his Enjoyments, and the Aſſurance of his ſafe Arrival there where he ſo paſſionately long'd to be, ſhall remove all theſe Doubts, and Fears, and Scruples, and leave no more room or poſſibility for them, for all Eternity.</p>
+            <pb n="10" facs="tcp:100469:8"/>
+            <p> Tell me, Oh, tell me Chriſtian, can you chooſe but Pant and Sigh, and Languiſh, for, and with inflamed Affections, breath after this Clarity of thy Underſtand<g ref="char:EOLhyphen"/>ing; this Settlement of thy Peace; this Removal of thy Doubts, for an inconceiveable Perpetuity?</p>
+            <p n="7">7. <hi>Every Man methinks ſhould allow it to be Wiſdom to prefer the Eternal Enjoyment of the Victory, before the Pains of the Combat; before the Pains and Hazard of ſubduing a Temptation here; and all the Severities of Repentance, and a watchful Life: And for the little time he is like to stay here, to act accordingly.</hi>
+            </p>
+            <p>Should we ask the Souldier which is moſt Chooſable, moſt Pleaſurable, the Peace and Joys of Victory, or the Pains and Dangers, the Fears and Hazards of the Warfare; he would readily anſwer us, and tell us un<g ref="char:EOLhyphen"/>felt things of the Tranſporting Pleaſures of the Victory: But he would talk of the Dangers and the Hardſhips of the War, with a trembling Remembrance. Only, it may be, recounting with Thanks, and Joy, and Wonder, the Mercy of Preſervation, and the Narrowneſs of his Eſcape.</p>
+            <p>Well, and what do we think will the Pleaſurable Reſentments of the Soul be, that's juſt come away from the Hazards of a long Combat with Sin, the World and the Devil, to the Pleaſures of an Eternal Victory? From the Importunity and Reſtleſsneſsof a Temptation, to the Joys of Conqueſt? And to Sit, and Live, and Love, and Reign, and be in Safety above the Reach of them, for all Futurity!</p>
+            <p>When through the Merits of his Saviour, he ſhall be able with Peace, and in the Securities of Heaven, and with Tranſporting Joys, in an Extaſy of Love, and Thanks, and Wonder, remember his old Doubts, and Fears, and Enemies, and Hazards, and the Securities of his Repen<g ref="char:EOLhyphen"/>tance: Being now got up far above them once for all, and
+<pb n="11" facs="tcp:100469:8"/>being expired into the Element of Love, is there to ſpend a Rapturous Eternity.</p>
+            <p>But 'tis impoſſible to give a full Account of theſe things, till we our ſelves have felt and experienc'd ſome<g ref="char:EOLhyphen"/>thing of them, in a happy State of Separation; or in the Joys of a ſafe and happy Reſurrection.</p>
+            <p>Only I would ask this Queſtion, whether upon this Glimpſe of them, you do not think them worth Dying for? And if ſo, then I would ask one more; and that is, whether you do not think them worth Living for, for one ſhort Life here? For certainly, tis extremely irrati<g ref="char:EOLhyphen"/>onal to ſay, you could be content to Dye for that, for which you are not content to Live.</p>
+            <p n="8">8. <hi>Eighthly and laſty; Every Man methinks ſhould allow <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to be an Act of ſubſtantial Reaſon, and true Wiſdom, to prefer the Enjoyment of the Creator, and all the Beatify'd Spirits of the upper World, before the Enjoyment of the Creatures, in any Inſtances here below: And for our Proba<g ref="char:EOLhyphen"/>tion Hour, to act accordingly.</hi>
+            </p>
+            <p>Were there but a Land or Nation on Earth, in which there were none but truly Wiſe, and Good Men, with whoſe Sweet and Endearing Converſation, we were ſure we ſhould be infinitely Pleaſed, and in Love; we ſhould certainly Rejoyce to think of a Removal to them; and (having got all things ready) take the firſt Opportunity to Travel thither, and Settle there; eſpe<g ref="char:EOLhyphen"/>cially if we were ſure by ſo doing, to leave nothing be<g ref="char:EOLhyphen"/>hind us, but what we ſhould find infinitely better there: A fairer Houſe; a better Health; a better Air; and a far larger Inheritance.</p>
+            <p>But all this while, there would unavoidably be one Damp ſtruck upon this; ſomething that would cool our Joys: I mean, we ſhould not long enjoy it; for Death in a little time would put a Period to theſe Fruitions. Well, but yet ſtill how infinitely deſirable were ſuch a
+<pb n="12" facs="tcp:100469:9"/>Country? and how well worth the pains of Travelling thither, tho we were to enjoy it but for ſeventy or eighty years; and if we might remove our Friends, and our Poſterity there too?</p>
+            <p>And if ſuch a Country, ſuch a Society, ſuch Accom<g ref="char:EOLhyphen"/>modations would be ſo deſirable for ſo few years, what think ye will the enjoyment of our lovely Creator be, and the bleſt Society of the beatified Spirits of the new VVorld, in fulneſs of Felicity round about him? and withall, when thou findeſt thy ſelf in an inſtant, thou knoweſt not how, one of that lovely number?</p>
+            <p>Tell me Chriſtian, do you really think you ſhould de<g ref="char:EOLhyphen"/>ſire to return to the enjoyment of the Creatures any more, when you had once taſted the delicacy of the Fru<g ref="char:EOLhyphen"/>ition of the Creator? Do you think you ſhould then de<g ref="char:EOLhyphen"/>ſire to return to an ill-natur'd, malicious, unpeaceful, en<g ref="char:EOLhyphen"/>vious, uncertain, alluring, ſickly, and tumultuous VVorld; when you were ſecurely lodg'd and ſtated amidſt the So<g ref="char:EOLhyphen"/>ciety of <hi>Just Men made perfect?</hi>
+            </p>
+            <p>Should not you rather wiſh that your Relatives, and your Poſterity were come up to you, and ſafely arrived to the ſame Station? Should not you rather wiſh that they might retain thoſe perſwaſions of them to Divine Love and Obedience, to a perſevering Piety and Vertue, which you charg'd them with when you were a dying? And that they might never forget them till they were come home to you? And then do you think you ſhould deſire to return from that bliſsful Society, and their Eter<g ref="char:EOLhyphen"/>nal Peace and Plenty there, to an Invidious and Prophane World?</p>
+            <p>If you ſay you think you ſhould not; ſee then what 'tis the Devout Chriſtian lives for; (tho you it may be, count his life madneſs) See what 'tis he Faſts, and Prays, and gives Alms for; See for what 'tis he denies himſelf, and takes up the Croſs, and follows Jeſus; See what 'tis he takes ſo much care to be Juſt and Upright, Chaſte and Temperate for; See yonder what 'tis he is content to
+<pb n="13" facs="tcp:100469:9"/>undertake the moſt deſpiſed and reproach'd Duties of the Chriſtian Religion for. In ſhort, ſee what 'tis he lives for, and is content to dye for. And when you have ſeen a little, and conſidered it, then tell me, <hi>Whether he be wiſe or no, who prefers the enjoyment of the Creator, and all the beatified Spitrits of the upper World, before the Enjoyment of the Creatures, in any Inſtances here below; and during his Probation hour here, reſolves to act accordingly.</hi>
+            </p>
+            <p>I may now preſume, I have competently confirm'd the Doctrinal Propoſition; which having finiſh'd, I ſhall yet to make all that has been ſaid the more uſeful to the De<g ref="char:EOLhyphen"/>ſigns and Purpoſes of every Chriſtian, leave, not only up<g ref="char:EOLhyphen"/>on your Memory, but (I would alſo,) upon your Hearts and Affections, three Exhortations, or Inſtances of Ap<g ref="char:EOLhyphen"/>plication.</p>
+            <p>If what I have recommended by the Doctrin, muſt be own'd to be Wiſe and Rational, you can then do no leſs than make theſe ſeveral Uſes of it: even you, Chriſtian, in particular.</p>
+            <list>
+               <label>Uſe I.</label>
+               <item>Reflect on thoſe actions of thy Life that have most unfitted thee for thy latter end, for a ſafe and holy paſſage to a new World; and let that reflection lead thee to an early Repentance, and a perſevering Reformation.</item>
+               <label>Uſe II.</label>
+               <item>If it be the trueſt Wiſdom, then reflect on thoſe actions of thy Life, which when thou look'ſt yonder to a new World, to the ſtate of Separation, or thy latter end, bring with them the greateſt Conſolations, the holieſt Joys, and the most Religious Peace; and let that reflection make you very conſtant in them.</item>
+               <label>Uſe III.</label>
+               <item>If it muſt be granted to be Wiſdom: Then let us be ſo wiſe as to be prevail'd upon, to apply our ſelves to all thoſe Inſtances of Divine Love and Obedience, in a vigorous and a flouriſhing Age, which we conſtantly find the learnedst, the wiſeſt, and the beſt of dying men are infinitely in Love with.</item>
+            </list>
+            <p n="1">
+               <pb n="14" facs="tcp:100469:10"/> 1. <hi>Reflect on thoſe Actions of thy Life, that have moſt un<g ref="char:EOLhyphen"/>fitted thee for thy latter end, for a ſafe and holy Paſſage to a new World; and let that Reflection lead thee to an early Repen<g ref="char:EOLhyphen"/>tance, and a perſevering Reformation.</hi>
+            </p>
+            <p>What theſe are, I ſhall not at preſent preſume to Gueſs; but ſhall leave it to God and thy own Conſci<g ref="char:EOLhyphen"/>ence, and to thy next Day of private Faſting, Humiliati<g ref="char:EOLhyphen"/>on and Repentance. Only I ſhall produce ſome few for Inſtance, and ſhew thee by theſe, how I would have thee Treat the reſt; and above all, how I would have thee in a more eſpecial manner, to Treat thy <hi>Boſom, Darling Sin,</hi> for which thou haſt moſt a Kindneſs; and to be ſure, by which you are moſt in Danger.</p>
+            <p>You my <hi>Horrid Oaths and Imprecations,</hi> by which I think I trim and adorn my Diſcourſe; by which I rend the Sacred Name of God, and Sport and Trifle with the <hi>Blood and Wounds</hi> of my Saviour: If you have at any time Unfitted me for a Safe and Happy Paſſage to the State of Separation; come look downward, look upon an open Grave to day, and then look upward; look yonder to a Provoked God, and an Immortality hazarded above by you; and adieu t'ye for all Futurity.</p>
+            <p>You my <hi>Drunkenneſs</hi> and Acts of Bruitiſh <hi>Intemperance,</hi> by which I have Drown'd the Man, and Drench'd the Beaſt; if you have at any time Unfitted me for the Ex<g ref="char:EOLhyphen"/>pectations of a Safe and Holy Paſſage to a new World of lovely Spirits, where they neither Eat nor Drink; come look upon an open Grave to day; then look up<g ref="char:EOLhyphen"/>ward to a Provoked God, and to an Eternal Glory, haz<g ref="char:EOLhyphen"/>arded above by you; and adieu t'ye 'till I change VVorlds.</p>
+            <p>You my <hi>Luſts and Impurities</hi> of any Kinds, Degrees or Meaſures; if you have at any time Unfitted me, for the Ex<g ref="char:EOLhyphen"/>pectations of being admitted to Chaſt <hi>Joſeph;</hi> to the Chaſt and Bright Souls of all Ages; to the Holy Virgin Mo<g ref="char:EOLhyphen"/>ther; and the Lord of Purities, the Holy Jeſus: If ye have Unfitted me for a Safe and Holy Paſſage to the State
+<pb n="15" facs="tcp:100469:10"/>of Separation, and to a new World of Chaſt, and Bright, and Lovely Spirits; come, look down into an open Grave to day; and then inſtantly look up, yonder to a God Provoked and Incens'd by you, and an Immortality haz<g ref="char:EOLhyphen"/>arded; and adieu to you, for all Futurity.</p>
+            <p>You my <hi>
+                  <g ref="char:V">Ʋ</g>ncharitableneſs,</hi> my Bitterneſs and Implacable<g ref="char:EOLhyphen"/>neſs of Spirit, my Unmortify'd <hi>Hatred</hi> and <hi>Malice,</hi> and <hi>Deſires of Revenge;</hi> by which I have Unliken'd my ſelf to him who Prayed for his Enemies, and Shed Blood for his Perſecutors; if you have Unfitted me for the Expecta<g ref="char:EOLhyphen"/>tions of a Safe and Holy Paſſage, to a new VVorld of Sweet and Lovely, Charitable, and Loving and Peace<g ref="char:EOLhyphen"/>ful Spirits; come, look upon a gaping Grave to day, and then immediately look up yonder, to a God Provoked, and an Immortality hazarded by you; and adieu t'ye for all Ages.</p>
+            <p>You my Long and Ungrateful <hi>Neglects</hi> of <hi>the Holy Sa<g ref="char:EOLhyphen"/>crament</hi> of the Lords Supper. But I ſtay to mention now no more Particulars; do that thy ſelf in thy next Religious Retirements: And if theſe Reflections lead thee to <hi>Re<g ref="char:EOLhyphen"/>pentance,</hi> to a ſincere and perſevering <hi>Reformation,</hi> and a new and a careful Obedience; thou haſt made the firſt uſe, I would have thee, of the Doctrin.</p>
+            <list>
+               <label>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> II.</label>
+               <item n="2">2.
+<list>
+                     <item>If what we have recommended, ſhall be allowed to be VViſdom, then Secondly,</item>
+                     <item>
+                        <hi>Reflect on thoſe Actions of thy Life, which when thou look'ſt yonder, to a new World, to the State of Separation, or thy latter end, bring with them the greateſt Conſolations; the Holieſt Joys; and the moſt Religious Peace: And let that Reflection make you very conſtant in them.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>What theſe Actions of thy Life are, that, when thou look'ſt forward a little upon thy State of Separation, and thy <hi>latter end,</hi> bring thee in the moſt Chearful Hope; the moſt Subſtantial Joys; the Trueſt Satisfactions; the Greateſt Calmneſs; Sedateneſs, Serenity and Tran<g ref="char:EOLhyphen"/>quility
+<pb n="16" facs="tcp:100469:11"/>of Mind the moſt Religious Peace; and leave ſome Touches of a delicious Reliſh upon the Spirits: You can eaſily remember whether I know or not. But this I know, thou mayeſt have great Reaſon, thus to ſay.</p>
+            <p>You my <hi>daily and conſtant, and uninterrupted Devotions,</hi> by which I have a long time faithfully kept up a holy Intercourſe between God and my Soul; if the Reflexion on you, begin to bring me in ſome chearful Hopes now; how much more will ye bring them in, when I come to leave Mortality? And am about to be admitted to that God, with whom I have ſo conſtantly converſed at a diſtance; and to enter upon that State, where I ſhall always Love him, and never more Offend him?</p>
+            <p>You my Chearful, and Conſtant, and Affectionate <hi>Attendances on the Word,</hi> the <hi>Houſe,</hi> the <hi>Worſhip</hi> of my Saviour; at thoſe <hi>Altars</hi> (whatever unhappy Diſſenters can think) at which my Fathers have received the Bread of Life; from which nothing but Neceſſity has ever kept me: If the Remembrance of ye, bring me in any holy Joys now; how much more Joy will that Remembrance bring me, when I am come within view of the Grave, and begin to hope very ſhortly, to enter upon a nearer Admittance to him, where I may alway Love, and never more Offend him!</p>
+            <p>You my <hi>Days</hi> (or parts of Days) <hi>of Faſting and Humi<g ref="char:EOLhyphen"/>liation,</hi> and <hi>Self-examination and Repentance,</hi> in which I have taken a cloſer View of my Life, and how my Ac<g ref="char:EOLhyphen"/>counts ſtand between God and my Soul, with Reference to Immortality and the Reſurrection; if the Remem<g ref="char:EOLhyphen"/>brance of ye, begin to be grateful now, Oh! how much more grateful will it certainly be, when I come to leave the World; and am called to lay aſide my Buſineſs here, and to enter upon thoſe upper Regions, where I ſhall alway Love, and never more Offend him!</p>
+            <p>You my <hi>Seaſonable and Prudent Alms and Charities,</hi> beſtowed with Purity of Intention, and a tender Affec<g ref="char:EOLhyphen"/>tion;
+<pb n="17" facs="tcp:100469:11"/>if the Reflection on you, begin to pleaſe me now, how truly Welcome, will ſuch Remembrances be, when I have received my Summons to change Worlds, and am about to enter upon a new Scene of Things, where I ſhall without Interruption, Love my God, and never more Offend him!</p>
+            <p>You my <hi>
+                  <g ref="char:V">Ʋ</g>nloading of a Burthened and Afflicted Conſci<g ref="char:EOLhyphen"/>ence to a Guide of Souls,</hi> in <hi>Holy Confeſſion;</hi> my Undaunted <hi>ſtating of Doubts, and Scruples, and Caſes of Conſcience to them,</hi> in order to Advice, and Peace, and Abſolution: If the Remembrance of you be ſo Joyous, and ſo full of a Holy Peace, and Sedateneſs, and Tranquillity of Mind now; how Joyous will that Remembrance be, when I am called hence, to enter upon a new, and unknown State and Condition, in the Habitations of my Fathers in Chriſtianity; where I ſhall without Abatements, Love my God, and never more Offend him!</p>
+            <p>You my <hi>conſtant and conſciencious Rendring to all their Dues, my ſtriect and ſevere Juſtice and Integrity,</hi> my Ab<g ref="char:EOLhyphen"/>horrence of all Injuſtice, and <hi>my Reſtitutions</hi> for them: If the Reflexion on ye, be ſo welcome to me now; How much more muſt ye needs be ſo, when I am brought to the Confines of the Grave, and am juſt about to Launch out into the vaſt Ocean of Eternity; where without Ceſſation, I ſhall love God, and never more offend him!</p>
+            <p>You <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Chaſtity and Purity of Life,</hi> by which I have with an upright Sincerity, offered up to God, one of the moſt acceptable Sacrifices in the whole World; i. e. <hi>A Pure and Chaſt Soul and Body:</hi> If the Remembrance of you, begin to be joyous to me now; how much more joyous will it be ſhortly, when I am juſt about to caſt my laſt Throw for that Eternity, in which I hope always to Love, and never more offend him!</p>
+            <p>You my <hi>Evangelical Meekneſs and Sweetneſs of Spirit, my Humility, and Charity to Friends and Enemies,</hi> for which I have been often Laught at or Scorn'd, and Deſpiſed, and Reproached by an unthinking World: You my o<g ref="char:EOLhyphen"/>ther
+<pb n="18" facs="tcp:100469:12"/>Actions of <hi>Self-denial, and Mortification, and Bear<g ref="char:EOLhyphen"/>ings of the Croſs,</hi> by which I have boldly Rejected, and faithfully Oppoſed the Pleaſures, Riches and Honours of a ſtrong and bold Temptation: If the Remembrance of you, bring me in ſome good Degrees and Meaſures of Peace now; Oh! much greater will they (likely) be, when I am called to come away, and enter upon a new World; where (O my God!) I ſhall always Love, and never more diſpleaſe thee.</p>
+            <p>You my conſtant and chearful Embracing <hi>all Oppor<g ref="char:EOLhyphen"/>tunities of approaching to the Holy Eucharist;</hi> my Panting, Sighing, Languiſhing Affections for that Food of Angels, and that Wine of Elect Souls: If my aweful and humble Remembrances of you, ſtrike ſomething of a holy Joy, and comfortable Hopes, and a religious Peace on my Soul now; Oh! how full of Conſolation will ſuch Re<g ref="char:EOLhyphen"/>flections be, when I am called to enter on my new and unknown Society, State and Condition; where (O thou whom my Soul loves!) I ſhall alway Love, and never more offend thee.</p>
+            <p>'Tis very poſſible, Chriſtian, ſome ſuch like Remem<g ref="char:EOLhyphen"/>brances, may ſometimes begin to be preaſing and joy<g ref="char:EOLhyphen"/>ous to thee now; and if they do, if they truly and really begin to be ſo, think piouſly, and with a cloſe and pierce<g ref="char:EOLhyphen"/>ing Thought, what they muſt needs do, when you ſhall draw very near the State of Separation.</p>
+            <p>And for the truth of this, I could almoſt appeal to your own Experience. Such and ſuch a religious Action did pleaſe thee, when you thought you could not be ſafe without them: In a late Sickneſs, which you thought would have been unto Death; Nothing was ſo welcome to you then as a Prayer-Book; no Company like that of a Guide of Souls; no Imployment like Devotion: Tho it may be all theſe Thoughts vaniſhed, and disbanded again, upon thy return to Health and Vigour.</p>
+            <p>But however, if this have been thy Caſe, or like it; methinks you ſhould now in Health, be eaſily perſuaded
+<pb n="19" facs="tcp:100469:12"/>to argue thus: Come my Soul, we can eaſily remember that ſuch religious <hi>Thoughts,</hi> and <hi>Actions,</hi> and <hi>Wiſhes</hi> and <hi>Intentions</hi> pleaſed us above all things in a late Sickneſs: And I am very confident they will pleaſe us again above all things when we come to dye: And why they ſhould not pleaſe us now, when we can beſt perform them, is ſtrange and unaccountable; which brings me to the Third and laſt Uſe, or Inſtance of Application: If <hi>theſe things muſt be granted to be Wiſdom, then let us be prevailed upon, to apply our ſelves to all theſe Inſtances of Divine Love and Obedience, in a vigorous and a flouriſhing Age, which we constantly find the Learnedſt, the Wiſeſt and the Beſt of dy<g ref="char:EOLhyphen"/>ing Men, are infinitely in Love with.</hi>
+            </p>
+            <p>But before I come to this laſt Uſe, I ſhall remember that I have another ſubject of Diſcourſe yet to be ſpoke to.</p>
+            <p>The Perſon I mean, whoſe Vacancy I at preſent fill; our Friend and our Brother here before us; who after a long Conflict with Mortality, has now <hi>paid</hi> his <hi>laſt Debt</hi> to Nature; and to whom we are <hi>paying</hi> our <hi>laſt Offices</hi> of Friendſhip, and Charity, and Kindneſs.</p>
+            <p>The Truth is, if Cuſtom had not warranted, and called for a ſhort Diſcourſe of this ſort; yet 'twere in<g ref="char:EOLhyphen"/>finite Pity, ſo good an Example of Piety and Charity, Sobriety and Purity of Life, ſhould have nothing ſaid of it. The Perſon whom ſcarce any ever knew, and knew well, but paid him (and that juſtly too) an equal portion of Love and Eſtimation.</p>
+            <p>It would take up too much time for the preſent Seaſon, to give a full Account of all the Accompliſhments, whe<g ref="char:EOLhyphen"/>ther Natural or Acquired, of this our Brother: I ſhall therefore be ſure to ſpeak but to two briefly,
+<list>
+                  <item>1. As to his Life.</item>
+                  <item>2. As to his Death.</item>
+               </list>
+            </p>
+            <p>'Tis true indeed, <hi>his Life</hi> may be as well known to moſt here preſent, as to my ſelf: but I am ſure <hi>his Death</hi> is not. However,</p>
+            <p>Firſt, As to his Life.</p>
+            <pb n="20" facs="tcp:100469:13"/>
+            <p> And here I ſhall conſider him, and reflect on him, in a threefold Capacity.</p>
+            <list>
+               <item>1. As a Man.</item>
+               <item>2. As a Chriſtian.</item>
+               <item>3. As a Prieſt.</item>
+            </list>
+            <p>That is, I ſhall a little remark his Excellencies and Abilities, Natural and Acquir'd, Moral and Divine; and in all of them ſhall find him well qualified for the Station which he held; and perhaps for a higher than That from which he left Mortality.</p>
+            <p n="1">1. As a Man. And here I need not ſtay to mention, that for a conſiderable number of years, he enjoyed the advantage of raiſing and improving his Natural Parts, by a happy and ſucceſsful Abode at one of the Fountains of Learning; there to fit himſelf for his greater Uſe<g ref="char:EOLhyphen"/>fulneſs in the Church. And to how good Purpoſes, is well known to thoſe who were competent Judges of his Abilities and Learning. And 'twas his Lot to be remo<g ref="char:EOLhyphen"/>ved hence, before any Decays of Age had obliterated or ruffled any part of his Excellencies and Accompliſh<g ref="char:EOLhyphen"/>ments. Happy in this, that he <hi>liv'd</hi> not to <hi>out-live</hi> him<g ref="char:EOLhyphen"/>ſelf, as is often the Caſe of very great and excellent Perſons. This being the Infelicity of Human Nature, that if either our Natural or Acquir'd Abilities, are not <hi>ſullied</hi> by the Vanities and Follies of Youth; or the Iniquities of our growing years, and a maturer Age; yet they are ſure to be <hi>clouded</hi> or <hi>razed out</hi> again, and made <hi>ſearce legible</hi> by the decays of Old Age, and the Weakneſs of our Intellectuals at the Evening of our Life.</p>
+            <p>Thus a little before we leave Mortality, Age begins to make us uſeleſs here: A little before our Sun ſets, Nature begins to draw the Curtain, and to caſt a Veil over us; and to unfit us for <hi>this World,</hi> for ſome time before we are removed to <hi>the other.</hi> But this was not the Caſe of our Brother here before us, who tho he lived to be long ſerviceable and uſeful in his Maſters Vineyard, yet (as I
+<pb n="21" facs="tcp:100469:13"/>ſaid) out-lived not himſelf, and his Abilities.</p>
+            <p>And here indeed, whether we reflect on the ſufficiency of his Learning; the goodneſs of his Judgment; the readineſs of his Invention; the clearneſs of his Appre<g ref="char:EOLhyphen"/>henſion, and his Notions; the obliging Sweetneſs and Candour, and Endearingneſs of his Deportment, in all his Addreſſes, and his Converſation: If we conſider all theſe in Conjunction, we ſhall find he exceeded very ma<g ref="char:EOLhyphen"/>ny, and <hi>equalled</hi> moſt of his Age. Upon each of which his Natural and Acquired Accompliſhments, I might ſtay to make larger Reflections: but I haſten,</p>
+            <p>Secondly, To conſider him as a Chriſtian.</p>
+            <p>Chriſtianity being deſign'd by the great Authour of it, to raiſe us above the pitch of Nature; to defaecate, and refine, and ſpiritualize Mortality; and to fit us for bea<g ref="char:EOLhyphen"/>tified Spirits, and ſeparate Intelligences; and the bright and lovely Regions of a new World.</p>
+            <p>I begin firſt with his <hi>Hoſpitality and Charity:</hi> His Hoſ<g ref="char:EOLhyphen"/>pitality was alway equal to his Eſtate; but his Charity (I ſuppoſe) even beyond it. The former of them had this Apoſtolical Qualification too, 'twas <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as St. <hi>Reter</hi> ſays it ought, 1 <hi>Pet.</hi> 4.9. without Grudging, without Murmuring, without Repining, Free and Gene<g ref="char:EOLhyphen"/>rous, Diſ-intereſted and Undeſigning.</p>
+            <p n="2">2. His <hi>Charity.</hi>
+            </p>
+            <p>By this he made his poor Neighbourhood become his Bills of Exchange, by whom he has return'd a great part of his Income into the other World, before he himſelf was tranſlated thither; and before he was called to en<g ref="char:EOLhyphen"/>ter upon ſome enjoyment of the Treaſure, which he laid up (like a good Husband) for himſelf there, where nei<g ref="char:EOLhyphen"/>ther <hi>moth nor ruſt do corrupt, or Thieves break through and ſteal.</hi>
+            </p>
+            <p>Certainly, if we conſider the naked that he clothed, and the Hungry that he frequently fed, we may ſay to the poor Neighbourhood, as our Saviour did, St. <hi>Luke</hi> 23.28. when he was going to <hi>Mount Calvary</hi> to his Cru<g ref="char:EOLhyphen"/>cifixion,
+<pb n="22" facs="tcp:100469:14"/>
+               <hi>Weep not for me, but weep for your ſelves, and for your Children.</hi>
+            </p>
+            <p>And not inſeriour to his Charity, was his <hi>ſtricteſt Ju<g ref="char:EOLhyphen"/>ſtice and Integrity;</hi> by which he might (I doubt not) with his expiring Breath, have askt the ſame queſtion the Prophet <hi>Samuel</hi> did of old, 1 <hi>Sam.</hi> 12.3. <hi>Whom have I defrauded? whom have I oppreſſed?</hi> Thus did he by the conſtant diſcharge of this Vertue, train up and trim the Soul for an admiſſion to <hi>juſt</hi> Zacheus, to the <hi>Spirits of Juſt men made perfect;</hi> and above all, to that <hi>righteous Lord that loveth Righteouſneſs,</hi> Pſal. 11.7.</p>
+            <p>I might conſider next his <hi>Temperance and Abſtemiouſ<g ref="char:EOLhyphen"/>neſs, his Purity and Sobriety of Life:</hi> Inſomuch, that if what <hi>Leſſius</hi> in his Hygiaſticon ſays (I think from the Rabbins) be true, That <hi>Spiritus ſanctus amat ſicca corda;</hi> and that <hi>Sapientia in ſicco reſidet, non in Paludibus &amp; La<g ref="char:EOLhyphen"/>cunis;</hi> that is, The holy Spirit dwells in dry and clean Souls, not in Boggs and Fenns, and Ditches, and Plaſhes, that are over-charged with Gluttony and Intemperance; we may then juſtly ſuppoſe the holy Dove, that ſacred Spirit, dwelt much in ſuch a Temple.</p>
+            <p>I might inſtance in more particulars, and conſider him as a Friend; Firm, Faithful, and Affectionate: As a Maſter, Juſt and Equal: As a Husband, Faithful, Ten<g ref="char:EOLhyphen"/>der, and Affectionate: But this I will decline, leſt I draw more Tears from thoſe eyes, that have paid over and above the full Debt already.</p>
+            <p>Such as this was the diſcharge of his Duties to <hi>himſelf,</hi> and <hi>Neighbour.</hi>
+            </p>
+            <p>And now we may be ſure 'tis not likely that he ſhould come ſhort in thoſe to his <hi>God;</hi> whom he loved infinite<g ref="char:EOLhyphen"/>ly beyond both: To whom he is now gone, to exchange his <hi>Faith</hi> for <hi>Viſion;</hi> his <hi>Hope</hi> for <hi>Fruition;</hi> his <hi>Devotions</hi> to be turn'd into <hi>Hallelujahs:</hi> where he will alway love him without Abatement, Ceſſation, Diminution and In<g ref="char:EOLhyphen"/>terruption; and never more fear to offend him. His immediate Duties, I ſay, to his God, I have reaſons to
+<pb n="23" facs="tcp:100469:14"/>believe, took up a conſiderable part of each day of his Life.</p>
+            <p>Thirdly, I might conſider him next as a Prieſt of the Holy Catholick Church; as a Diſpenſer of all the Parts and Inſtances of Miniſtration to the Divine Glory, Love and Obedience. How Faithful, how Conſtant, how Able, how Aſſiduous in his Preaching the Goſpel, in his Adminiſtration of the Sacraments, and the other parts of his holy Function; theſe (lately) of his Charge are his beſt Witneſſes.</p>
+            <p>And his Maſter when he call'd for his Accounts, and bid him lay aſide his buſineſs here, and come up to him; Carne, and <hi>found him ſo doing:</hi> And <hi>bleſſed is That Servant,</hi> ſays our Great <hi>Maſter,</hi> St. Matth. 24.46.</p>
+            <p>And thus much, though too briefly, as to his Life.</p>
+            <p n="2">2. As to his Death: If the ſeparation of the Soul and Body ſhall be call'd ſo. For not Chriſtians only, but (what's much more remarkable and ſtrange) even the Heathens, and particularly the Greek Tragedian, would not allow the unfettering and unchaining of the Soul to be call'd a death:</p>
+            <l>—<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </l>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,</l>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</l>
+            <p>That is, who knows, who can tell, but that that Life which we live here, is but a death; and that to dye only, is truly to live?</p>
+            <p>And 'tis as ſtrange what is ſaid by another: <hi>Hi vivunt qui ex corporum vinculis tanquam e carcere evolaverunt, ve<g ref="char:EOLhyphen"/>ſtra vero quae dicitur vita, mors eſt: i. e.</hi> They truly live, who have made their eſcape out of this priſon of the Body; but that which men commonly call Life, that's Death.</p>
+            <p>And a third ſpeaks higher yet; The Gods (as they ſpeak) conceal from Men, and will not let them know
+<pb n="24" facs="tcp:100469:15"/>the ſweetneſs of dying, to make them patient and con<g ref="char:EOLhyphen"/>tent to live.</p>
+            <p>But we need not the Teſtimony or Opinion of the Wiſeſt Heathens, who have the Revelation of the Son of God, That Death only lets us in to that State, which alone deſerves the name of Life.</p>
+            <p>And how holy, how Chriſtian, how truly devout his Paſſage was, might be too long to mention at large: For certainly all that ſtood near him, have reaſon to wiſh in the words of <hi>Balaam; Let my laſt end be like his,</hi> Numb. 23.10.</p>
+            <p>Having given him ſeveral Viſits in his Sickneſs, which were voluntary and uncall'd for, I found at laſt by his continual Languiſhments, reaſon to believe, the time of his Removal could be at no great diſtance.</p>
+            <p>With which Thoughts I faithfully acquainted him in a Letter: As knowing 'twas beſt to take all the Securities which our Lord has given us, to make our Paſſage ſafe and holy: And it being infinite Pity that a Regular, a Holy and Exemplary Life, ſhould want any of the Ad<g ref="char:EOLhyphen"/>vantages of a happy Death.</p>
+            <p>Accordingly the day before his Death, he was pleaſed to ſend for me; and call upon me to aſſiſt him in his Trimming of his Lamp, for the coming of his Bride<g ref="char:EOLhyphen"/>groom, whom he now apprehended to be near at hand; and to help him to Dreſs, and Adorn himſelf for his Funeral.</p>
+            <p>'Twill be a great Miſtake for any Man, or all Men living, to expect a minute and particular Account, of every word that might paſs between us.</p>
+            <p>But when I came to him, he told me <hi>he was going hence,</hi> that he was very apprehenſive that in a little time, he ſhould be call'd to change Worlds; and deſired I would aſſiſt him in his laſt Agonies.</p>
+            <p>How willing I was to undertake ſo welcome a Duty, in which I could at once ſerve my <hi>Maſter</hi> and my <hi>Friend;</hi> a <hi>Maſter</hi> above, and a <hi>Friend</hi> below; in the ſame In<g ref="char:EOLhyphen"/>ſtance,
+<pb n="25" facs="tcp:100469:15"/>and in an Inſtance too, in which I was never like to do it more, is no part of my preſent Buſineſs to ſay.</p>
+            <p>At firſt he deſired the Prayers of the Church, in which he joyned with all poſſible Demonſtrations of a lively Faith; an unfeign'd Repentance; a Seraphic Fervency and Zeal; a holy Hope and religious Affections.</p>
+            <p>Which being ended, he told me he deſigned the next day, (which proved to be that in which he Dyed) for the receiving his <hi>Viaticum,</hi> for his approaching <hi>Journy;</hi> I mean the Bleſſed Sacrament of the Lords Supper.</p>
+            <p>I told him I thought it might be very convenient, and moſt ſafe to do it <hi>to day:</hi> To which He, after ſome Thoughts and Conſiderations, moſt readily and willingly conſented.</p>
+            <p>He complained I remember, of his Unwillingneſs to receive his Saviour as he lay; and could have wiſh'd, if his Weakneſs would have permitted, it might have been upon his Knees, and in a more humble Poſture of External Devotion. But his great Weakneſs of Body conſidered, this could be no Diſpute; and 'tis pity that ever it ſhould have been one in the Chriſtian Church.</p>
+            <p>Which having devoutly Received, he then ſeem'd more full of a Holy <hi>Joy,</hi> and Pious <hi>Satisfaction,</hi> and a Religious <hi>Peace:</hi> And he expreſs'd his <hi>Rejoycings</hi> in ſome chearful Ejaculations.</p>
+            <p>Thus in the mid'ſt of Bleſſing, and Prayers and Eucha<g ref="char:EOLhyphen"/>riſt, he ſtands about a day longer upon the Threſhold of the new World: And then he is called to come in; and he bows the Head, and enters: And Willingly and Chearfully Yields and Reſigns up his Soul (you may be ſure, not without the Peace of the Church) into the Hands of the Great Shepherd and Biſhop of our Souls, the Holy Jeſus.</p>
+            <pb n="26" facs="tcp:100469:16"/>
+            <p> And now, I'le ſtay to ask one Queſtion once more, in the words before mentioned; who of us here, is there, but muſt be inclin'd to ſay, <hi>Let my laſt end be like his?</hi>
+            </p>
+            <p>Thus he has left Mortality: And tho he has left his Partner Diſconſolate; his Relatives Mourning; his Friends Sighing; yet above all, he has left his People without a Paſtor, an Aſſiſtant and a Guide.</p>
+            <p>And tho all that knew him, may poſſibly Lament his Removal; yet certainly, none have more cauſe, than you that were the People of his Charge, to whom I now ſpeak. And if the taking away ſo faithful a Conductor of you to your future Hopes and Expectations; one ſo truly willing that your Paſſage home to the Manſions of Glory, might be ſafe and holy; (and whoſe Loſs may not be ſo eaſily repaired) may juſtly draw Tears from your Eyes, or raiſe Sorrows in your Hearts; I may then ſay to you once more in a Spiritual Senſe, as I did before, with Reference to his Alms and Corporal Charities, in the words of our dying Saviour; <hi>Weep not for me, but weep for your ſelves, and for your Children.</hi>
+            </p>
+            <p>One thing particularly I muſt mention to you the people of his Charge: And that is, That while he was yet living, he has complain'd of, and lamented your al<g ref="char:EOLhyphen"/>moſt Univerſal neglect of the Holy Sacrament, (except one Family, whoſe Modeſty would not think it fit to be particulary mentioned.)</p>
+            <p>Certainly Beloved, if the words of dying Men, uſe to be Influential and moving upon the Hearers, methinks ſuch a Complaint of your deceas'd Paſtor here before you, and that too in Conjunction with the dying words of your crucified Maſter, ſhould move and endear every Soul preſent, henceforward to do this in Remembrance of the Lord that bought you.</p>
+            <p>But if neither the one nor the other, can move or affect an obdurate Heart; If neither the affectionate words of
+<pb n="27" facs="tcp:100469:16"/>a dying Jeſus, nor the Complaint of your deceas'd Paſtor can do it; I'le only add the words of the ſame Lord, and leave them upon your Thoughts and Affections; St. <hi>John,</hi> 16.4. <hi>Theſe things I have told you, that when the time ſhall come, you may remember that I told you of them.</hi>
+            </p>
+            <p>But to return: Thus he at length reſts from his La<g ref="char:EOLhyphen"/>bours, and is called off from his Poſt and his Station here, his painful Poſt and Station. And no wonder if he who had a double Charge, and Load, and Burden upon his Shoulder, was cruſht into Duſt, and preſt into the Confines of the Grave, a little too ſoon.</p>
+            <p>But his better part is fixt in an Orb of Glory, in a new World; there to ſhine among his Brethren Stars, who in their ſeveral Ages, have turn'd many Souls to Righteouſneſs. Removed from his <hi>Work</hi> to his <hi>Reward:</hi> From cultivating this corner of his Maſters Vineyard, to his Maſters Home; and to a Participation of his Feli<g ref="char:EOLhyphen"/>cities.</p>
+            <p>Where we hope after a bleſſed and joyful Reſurrection, he ſhall receive that <hi>Aureoln,</hi> as (if I miſtake not) ſome of the Latin Fathers call it; that <hi>peculiar Coronet of Glory,</hi> which our Maſter reſerves for all thoſe that with Purity of Intention, ſincere Alms and Deſignations, have intend<g ref="char:EOLhyphen"/>ed and deſired the ſpreading of his Kingdom; the Diſ<g ref="char:EOLhyphen"/>ſemination of his Goſpel, and the inlarging of his Glory; his Love and his Obedience, in this lower World.</p>
+            <p>And in thoſe lovely Manſions, ſhall in the midſt of a little Quire of his own; I mean in the midſt of theſe beatified Spirits, which by his holy Miniſteries he had aſſiſted in their ſafe and holy Paſſage thither; and by the Exemplarineſs of his Life and Death, conducted too: In the midſt, I ſay, of this Quire, Sing the Hymns, and Hoſannna's, and Hallelujah's of Eternal Ages.</p>
+            <p>Theſe are Thoughts which (as to him) ſhould juſtly leſſen our Mournings for his Removal from a Laborious
+<pb n="28" facs="tcp:100469:17"/>Station, to a Society from which by this time, he little deſires to be removed; and ſhould inflame our Deſires to come up to him.</p>
+            <p>He that has quitted the old World ſo fairly, and has left behind him the Odour of an unblemiſh'd Vertue, and no Remembrances but thoſe of a holy Life; and is gone to New and Richer Poſſeſſions, deſerves no more of our Tears; and methinks ſhould leave no Paſſions on us, but thoſe of <hi>Joys</hi> and <hi>Deſires:</hi> Joys for him, and Deſires for our ſelves. <hi>Joys</hi> for him, that he has been faithful unto Death; and <hi>Deſires</hi> for our ſelves, that we may be ſo too when we change Worlds, and may come up to him.</p>
+            <p>I have now juſt done with both parts of my Text: Only upon a Review of the whole, and the conſideration of this Spectacle of Mortality here before us; I ſhall now inſiſt upon the <hi>third and laſt <g ref="char:V">Ʋ</g>ſe,</hi> which I mentioned before, and ſhall have done.</p>
+            <p>Uſe III.</p>
+            <p>
+               <hi>Let us be ſo wiſe, as to be perſwaded to apply our ſelves to all theſe Instances of Divine Love and Obedience, in a vigo<g ref="char:EOLhyphen"/>rous and a flouriſhing Age, which we conſtantly find the Learn<g ref="char:EOLhyphen"/>edſt, the wiſest, and the beſt of dying men, to be infinitely in Love with.</hi>
+            </p>
+            <p>Here lies one great fault of Mankind: In the days of Health and Peace, and Strength and Vigour, ſome men ſeem to be aſhamed of Religion: And Piety and Vertue are look'd upon, either to proceed from a Melancholy Temper, or, from a Weakneſs of Intellectuals; and to be a humble, a devout, and a mortified Chriſtian, is too mean a Character to pleaſe us: To ſcruple any thing is to be ſure to be reproach'd; and the very name of a <hi>Caſe of Conſcience</hi> is turn'd into Ridicule.</p>
+            <pb n="29" facs="tcp:100469:17"/>
+            <p> Well, if it muſt be ſo, be it ſo a little longer; but yet the Time haſtens upon us, when all our Actions of Piety and Charity, Mortification and Devotion; when Prayers and Tears, Contrition and holy Confeſſions; Humility and Self-denial; ſevere Inſtances of Repen<g ref="char:EOLhyphen"/>tance; the holy Sacrament of the Body and Blood of our Saviour; when nothing but theſe, or ſome of theſe, will pleaſe us; when nothing but theſe, or ſome of theſe, will be welcom to us; when nothing but theſe, or ſome of theſe, will content and ſatisfie us; when nothing but theſe would willingly be remembred by us.</p>
+            <p>Tell me now, O tell me Chriſtian, or do but anſwer it to your own Conſcience in your next Retirements; what reaſon can we poſſibly give, why we ſhould not be in as good earneſt with God, and our invaluable Souls, and with our future Hopes and Expectations in our days of Health and Eaſe, as moſt men uſe to be when they come to change Worlds?</p>
+            <p>This is certain, Our days of Health and Vigour are ſitteſt for thoſe Proviſions. Then only we can make them <hi>moſt ſafely,</hi> and <hi>moſt acceptably too,</hi> when we can be tempt<g ref="char:EOLhyphen"/>ed to the contrary.</p>
+            <p>Then only we can ſhew moſt of our Choices and our Affe<g ref="char:EOLhyphen"/>ctions; then only we can ſhew moſt of the Divine Love.</p>
+            <p>And beſides all this, theſe things are as true <hi>now,</hi> as they can be <hi>then;</hi> as true now, as they can poſſibly be when we come to leave Mortality.</p>
+            <p>O come then, let us be prevail'd upon ſeaſonably and early to train up, and trim the Soul for Immortality; in our days of Health, and Eaſe, and Vigour, by the Pra<g ref="char:EOLhyphen"/>ctice of theſe very Vertues, which we verily believe we ſhall be in Love with when we come to dye, and to enter upon our new and unknown State and Condition. And then let us never think we have done enough, till we are call'd to lay aſide our buſineſs here, till all be finiſh'd in a <hi>holy Life</hi> and in a <hi>happy Death.</hi>
+            </p>
+            <pb n="30" facs="tcp:100469:18"/>
+            <p> After which, and a <hi>joyful Reſurrection,</hi> we may together with this our Brother before us, and with all the Saints departed, and they with us; and all with Angels and Arch-Angels, <hi>ſing Hallelujahs to him that ſits on the Throne, and the Lamb for ever and ever.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:100469:18"/>
+            <head>
+               <hi>Books ſold by</hi> Henry Bonwicke, <hi>at the</hi> Red Lyon <hi>in St.</hi> Pauls<hi>'s</hi> Church yard.</head>
+            <p>THe General Hiſtory of the Reformation of the Church: Written in <hi>Latin</hi> by <hi>John Sleidan,</hi> faithfully Engliſhed; to which is added a Continuation to the end of the <hi>Council</hi> of <hi>Trent.</hi> By <hi>E. Bohun,</hi> 
+               <abbr>Eſq</abbr> in Folio.</p>
+            <p>Two uſeful Caſes reſolved: 1. Whether a Certainty of being in a State of Salvation, be attainable. 2. What is the Rule by which this Certainty is to be attain'd; in Quarto.</p>
+            <p>A Sermon Preached at the Anniverſary Meeting of the Sons of the Clergy, <hi>December</hi> 4th. 1684. By <hi>Francis,</hi> Lord Biſhop of <hi>Ely.</hi>
+            </p>
+            <p>The Importance of Religion to Young Perſons, Re<g ref="char:EOLhyphen"/>preſented in a Sermon Preached at the Funeral of Sir <hi>Thomas Vinor,</hi> Baronet; in St. <hi>Hellens</hi> Church, <hi>London. May</hi> 3d. 1683.</p>
+            <p>A Sermon Preached before the King in His Royal Chappel of <hi>Windſor, July</hi> 27th. 1684. Both by <hi>Henry Hesketh,</hi> Vicar of St. <hi>Hellens.</hi>
+            </p>
+            <p>An Anſwer to a Challenge made by a <hi>Jeſuite</hi> in <hi>Ireland;</hi> wherein the Judgment of Antiquity, in the Points queſti<g ref="char:EOLhyphen"/>on'd, is truly delivered, and the Novelty of the now Romiſh Doctrin plainly diſcovered: To which is added a Diſcourſe of the Religion antiently Profeſs'd by the <hi>Iriſh</hi> and <hi>Britiſh:</hi> By the moſt Reverend and Learned <hi>James <g ref="char:V">Ʋ</g>ſher,</hi> late Lord Archbiſhop of <hi>Armagh;</hi> Quarto.</p>
+            <p>The Country Parſon's Advice to his Pariſhioners, in two Parts. 1. Containing a plain and ſerious Exhortati<g ref="char:EOLhyphen"/>on to a religious and vertuous Life. 2. General Di<g ref="char:EOLhyphen"/>rections how to Live accordingly; in Octavo.</p>
+            <p>
+               <hi>Pia Deſideri:</hi> or Divine Addreſſes; in three Books: Illuſtrated with Forty Seven Copper Plates. Written in <hi>Latin</hi> by <hi>Herm. Hugo;</hi> Engliſhed by <hi>Edmond Arwaker;</hi> in Octavo.</p>
+            <p>A Diſcourſe proving from Scripture and Reaſon, that
+<pb facs="tcp:100469:19" rendition="simple:additions"/>the Life of Man, is not limited by any abſolute Decree of God; by the Author of the Duty of Man, <hi>&amp;c.</hi> Octavo.</p>
+            <p>The <hi>Art of Catechiſing:</hi> or, <hi>the Compleat Catechiſt,</hi> in Four parts. 1. The Church-Catechiſm reſolved into eaſie Queſtions, to be anſwered only by <hi>Yes</hi> or <hi>No.</hi> 2. An Expoſition of it in a continued, full, and plain Diſcourſe. 3. The Church Catechiſm reſolved into Scripture Proofs. 4. The whole Duty of Man reduced into Queſtions, to be anſwered by a ſingle <hi>Yes</hi> or <hi>No.</hi> Fitted for the meaneſt Capacities, the weakeſt Memories, the plaineſt Teachers, and the moſt uninſtructed Learn<g ref="char:EOLhyphen"/>ers.</p>
+            <p>Hope and Peace, in a Letter to a Perſon troubled in Mind. who (though a Vertuous Lady) yet Laboured under great Scrupuloſities, Doubts and Fears; and ſome uneaſie Degrees of Deſperation. Both by a Divine of the Church of <hi>England.</hi>
+            </p>
+            <p>The beſt Guide to Devotion, being ſhort Prayers, Meditations and Thanksgivings; taken only out of Scrip<g ref="char:EOLhyphen"/>tures, and fitted to all occaſions; in 24<abbr>s.</abbr>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
